@@ -1,3 +1,13 @@
+# hosts コマンド
+
+hosts コマンドはクロスプラットフォームで統一的な hosts を管理するインターフェースを提供することを目指して作られました。
+
+Node.js の`Single executable applications`を使用して作られています。
+
+__⚠️注意⚠️__
+
+Node.js の`Single executable applications`は実験的機能という位置付けで本番環境での使用を推奨していません。したがって本プロジェクトも本番環境での使用を推奨しません。
+
 
 ## ビルド方法
 
