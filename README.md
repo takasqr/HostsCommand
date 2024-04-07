@@ -1,6 +1,7 @@
 
 ## ビルド方法
 
+現在 Linex で使用することができます。
 
 ### Docker の Remote Container　で開く
 
