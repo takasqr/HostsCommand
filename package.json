@@ -1,0 +1,15 @@
+{
+  "name": "hosts-command",
+  "private": false,
+  "version": "0.1.0",
+  "files": ["dist"],
+  "description": "Command Line Interface for Hosts",
+  "license": "MIT",
+  "main": "hosts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takasqr/HostsCommand"
+  },
+  "homepage": "https://github.com/takasqr/HostsCommand",
+  "keywords": ["hosts", "command"]
+}
