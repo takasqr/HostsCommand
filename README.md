@@ -8,6 +8,31 @@ __⚠️注意⚠️__
 
 Node.js の`Single executable applications`は実験的機能という位置付けで本番環境での使用を推奨していません。したがって本プロジェクトも本番環境での使用を推奨しません。
 
+## Usage
+
+### hosts の一覧を表示する
+
+```bash
+./hosts
+```
+
+```
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+```
+
+### hosts にエントリを追加する
+
+```bash
+./hosts --add 127.0.0.1 example.com
+```
+
+### hosts のエントリを削除する
+
+```bash
+./hosts --remove example.com
+```
 
 ## ビルド方法
 
